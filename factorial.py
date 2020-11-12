@@ -1,7 +1,7 @@
 #5=1*2*3*4*5= 120
 # Prints the status of the git repository
 # Initialize the repo
-#git difference
+#git difference rt
 fact=1
 num=5
 
