@@ -1,4 +1,5 @@
-## 5=1*2*3*4*5= 120
+#5=1*2*3*4*5= 120
+# Prints the status of the git repository
 fact=1
 num=5
 
