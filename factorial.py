@@ -2,6 +2,7 @@
 # Prints the status of the git repository
 # Initialize the repo
 #git difference rt
+#new folder
 fact=1
 num=5
 
